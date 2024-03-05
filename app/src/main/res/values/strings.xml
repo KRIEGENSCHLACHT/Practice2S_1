@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ПРАКТ.1</string>
+    <string name="greetingsButton">Поздороваться</string>
+    <string name="countingButton">Жми на меня!</string>
+    <string name="SplashText">ТИПА ЗАГРУЗОЧНЫЙ ЭКРАН (просходит загрузка)</string>
+    <string name="splash">SPLASH</string>
+    <string name="author_btn_text">Разработчик</string>
+    <string name="back_btn_text">Назад</string>
+</resources>
